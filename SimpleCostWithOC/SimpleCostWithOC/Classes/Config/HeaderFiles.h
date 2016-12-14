@@ -11,4 +11,7 @@
 #define HeaderFiles_h
 #import "BaseViewController.h"
 #import "YYKit.h"
+#import "UIBarButtonItem+Custom.h"
+#import "UIImage+Custom.h"
+#import "BackgroundImageView.h"
 #endif /* HeaderFiles_h */
