@@ -19,7 +19,7 @@
     /** 1.创建window */
     UIWindow *window = [[UIWindow alloc] initWithFrame:kMainScreenBounds];
     /** 2.设置window背景色 */
-    window.backgroundColor = [UIColor redColor];
+    window.backgroundColor = [UIColor whiteColor];
     /** 设置root view controller */
     window.rootViewController = [[MainTabBarController alloc]init];
     /** 显示window */
